@@ -634,7 +634,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Регистрация в Батэль",
-        "title": "На регистрацию",
+        "title": "Регистрация в Батэль",
         "order": 1
       },
       "components": [
